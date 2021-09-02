@@ -1,3 +1,3 @@
 language: java
 jdk:
-  = oracllejdk11
+  - oracllejdk11
